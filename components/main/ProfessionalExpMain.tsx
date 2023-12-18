@@ -22,17 +22,17 @@ export default function ProfessionalExpMain() {
             <>
                ● Designed and developed Java large-scale, distributed applications, services, and features that had a direct impact on the core business, leading to an increase of seller enrollments by 100k+ across 4 marketplaces.
               <br />
-              ● Optimized flows with React reusable components, eliminating 70% of legacy code and enhancing code reusability.
+              ● Optimized flows with React reusable components, eliminating 70% of legacy code reusability.
               <br />
-              ● Boosted web app performance by Redux for state management, reducing page load time from 5 to 2 seconds.
+              ● Boosted web app performance by Redux for state management, reducing page load time from 5 to 2sec.
               <br />
-              ● Delivered advanced reporting and product ranking solutions, driving a remarkable 40% client business growth.
+              ● Delivered advanced reporting and product ranking solutions, driving a 40% client business growth.
               <br />
-              ● Enhanced web accessibility from 60% to 82% through robust solutions and successful resolution of web issues.
+              ● Enhanced web accessibility from 60% to 82% through robust solutions.
               <br />
-              ● Successfully led a highly esteemed team of 3 individuals in the migration of physical servers to cloud-based servers.
+              ● Successfully led a esteemed team of 3 individuals in the migration of physical to cloud-based servers.
               <br />
-              ● Mentored peers, reviewed code/designs, resolved 20+ production-level issues, and followed Agile methodology.
+              ● Reviewed code/designs, resolved 20+ production-level issues, and followed Agile methodology.
               <br />
               ● Integrated 10 vanilla JavaScript flow jobs within the ML platform, achieving a remarkable 90% increase in product query responses.
             </>
