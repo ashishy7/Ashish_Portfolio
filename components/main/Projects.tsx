@@ -30,7 +30,7 @@ const Projects = () => {
           title="Meteorite Landing Data Visualization"
           description={
             <>
-              ● Leveraged Python, including Pandas, NumPy, Matplotlib, and Geolocation libraries, to analyze and visualize NASA's meteorite landing dataset.
+              ● Leveraged Python, including Pandas, NumPy, Matplotlib, and Geolocation libraries, to analyze and visualize NASA meteorite landing dataset.
               <br />
               ● Demonstrated proficiency in data analysis by creating six compelling visualizations that offered insights into meteorite landing patterns and trends.
               <br />
