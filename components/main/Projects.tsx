@@ -26,14 +26,32 @@ const Projects = () => {
           }
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/MeteoriteLandingImg.jpeg"
+          title="Meteorite Landing Data Visualization"
+          description={
+            <>
+              ● Leveraged Python, including Pandas, NumPy, Matplotlib, and Geolocation libraries, to analyze and visualize NASA's meteorite landing dataset.
+              <br />
+              ● Demonstrated proficiency in data analysis by creating six compelling visualizations that offered insights into meteorite landing patterns and trends.
+              <br />
+              ● Applied geospatial analysis techniques to enhance understanding of meteorite distribution across geographical locations.
+              <br />
+            </>
+          }
         />
         <ProjectCard
           src="/SpaceWebsite.png"
           title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description={
+            <>
+              ● Engineered user authentication and account management functionalities using Firebase, ensuring secure and seamless signup and login experiences.
+              <br />
+              ● Developed dynamic web interfaces with Next.js, incorporating responsive design principles for optimal user interaction.
+              <br />
+              ● Integrated TMDb API to fetch and display movie data dynamically, mimicking the Netflix-style user interface.
+              <br />
+            </>
+          }
         />
       </div>
     </div>
