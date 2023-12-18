@@ -232,10 +232,10 @@ export const Skill_data = [
     },
   
     {
-      skill_name: "Figma",
-      Image: "/figma.png",
-      width: 50,
-      height: 50,
+      skill_name: "Amazon web services",
+      Image: "/cloud.png",
+      width: 100,
+      height: 100,
     },
   
   ];
@@ -244,11 +244,23 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/go.png",
-      width: 60,
-      height: 60,
+      skill_name: "Java",
+      Image: "/Java.webp",
+      width: 100,
+      height: 120,
     },
+    {
+        skill_name: "Python",
+        Image: "/Python-logo.png",
+        width: 60,
+        height: 60,
+      },
+      {
+        skill_name: "C/C++",
+        Image: "/c.png",
+        width: 55,
+        height: 55,
+      },
   ];
   
   

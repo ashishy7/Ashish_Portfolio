@@ -12,9 +12,18 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/NetflixClone.png"
+          title="Modern Netflix Clone"
+          description={
+            <>
+              ● Engineered user authentication and account management functionalities using Firebase, ensuring secure and seamless signup and login experiences.
+              <br />
+              ● Developed dynamic web interfaces with Next.js, incorporating responsive design principles for optimal user interaction.
+              <br />
+              ● Integrated TMDb API to fetch and display movie data dynamically, mimicking the Netflix-style user interface.
+              <br />
+            </>
+          }
         />
         <ProjectCard
           src="/CardImage.png"
